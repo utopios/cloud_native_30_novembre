@@ -19,7 +19,7 @@
             - Uitilsation des outils mis en place par les ingénieurs sécurité
 
 2. Développement et Intégration continue.
-    - Ingénieurs, développeurs avec une culture DevOps.
+    - Ingénieurs, développeurs avec une culture DevOps, Ingénieurs DBA.
         - Responsabilités : 
         - Ecrire et maintenir le code d'application et tests.
         - Conteneurisation des applications.
